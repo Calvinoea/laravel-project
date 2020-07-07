@@ -46,11 +46,11 @@ class UserController extends Controller
     //    $users = DB::select('select * from users');
     //    return $users;
 
-    $data= [
-        'name' => 'El',
-        'email' => 'el@bitfumes.com',
-        'password' => 'password',
-    ];
+    // $data= [
+    //     'name' => 'El',
+    //     'email' => 'el@bitfumes.com',
+    //     'password' => 'password',
+    // ];
 
         // User::create($data);
 
